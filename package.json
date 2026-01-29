@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Aymeric PAIN BLAVEC",
+	"description": "A project about learning backend",
+	"keywords": [ "learning", "backend", "beginner" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
